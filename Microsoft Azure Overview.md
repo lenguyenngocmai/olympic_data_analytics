@@ -1,6 +1,7 @@
 **Account Structure**
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/d57607db-d5fa-436c-a30a-783dae5b094a/dbf62e87-277e-4e48-a14e-ed4138806b69/Untitled.png)
+![image](https://github.com/lenguyenngocmai/olympic_data_analytics/assets/92318237/a893407c-2d51-4b7e-bbf2-06e3e294d115)
+
 
 The level follows the structure: 
 
